@@ -18,5 +18,6 @@ def main():
             pintar_info(origen,destino,tiempo1, tiempo2, minutos)
             pintar_trayectoria(lista_estaciones, tiempo_entre_estacion, obtener_datos())
             
+#ComentarioPrueba
 if __name__ == '__main__':
     main()
