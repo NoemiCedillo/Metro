@@ -17,9 +17,6 @@ def main():
             tiempo1, tiempo2, minutos, tiempo_entre_estacion = obtener_tiempo(lista_estaciones)
             pintar_info(origen,destino,tiempo1, tiempo2, minutos)
             pintar_trayectoria(lista_estaciones, tiempo_entre_estacion, obtener_datos())
-            #prueba
-#Comentario
-#Random
-#ComentarioPrueba
+            
 if __name__ == '__main__':
     main()
