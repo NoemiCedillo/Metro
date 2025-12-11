@@ -21,6 +21,7 @@ def main():
 #PruebaDEMO
 #DEMOMAPS
 #Comentrario prueba
+#MAPS
             
 if __name__ == '__main__':
     main()
