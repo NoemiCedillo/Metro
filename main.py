@@ -19,5 +19,6 @@ def main():
             pintar_trayectoria(lista_estaciones, tiempo_entre_estacion, obtener_datos())
           #prueba
 #SAST
+#prueba
 if __name__ == '__main__':
     main()
